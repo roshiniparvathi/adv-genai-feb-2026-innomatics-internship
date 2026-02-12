@@ -10,7 +10,7 @@ This repository contains Python solutions for basic logic-building problems. The
 ## 🛠 Requirements
 
 * Python 3.x
-* Any code editor (VS Code, PyCharm, Jupyter, etc.)
+* Any code editor (VS Code, PyCharm, Jupyter, Collab etc.)
 
 --------
 
@@ -83,34 +83,12 @@ Counts the number of error messages in system logs.
 
 --------
 
-## ▶ How to Run the Program
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-github-repo-link>
-   ```
-
-2. Navigate to the folder:
-
-   ```bash
-   cd logic-building-task
-   ```
-
-3. Run the Python file:
-
-   ```bash
-   python main.py
-   ```
-
----
-
 ## 📁 Project Structure
 
 ```
-logic-building-task/
+adv-genai-feb-2026-innomatics-internship/
 │
-├── main.py
+├── Logic Building Task-1.ipynb
 └── README.md
 ```
 
@@ -125,7 +103,3 @@ The program displays:
 * Cleaned names list
 * Message length status
 * Total error count
-
-
-
-This project is created for educational purposes only.
